@@ -1,0 +1,11 @@
+.top-heading {
+    color: rgb(18, 42, 150); /* A bright cyan color */
+}
+
+.small-image {
+    max-width: 50px;
+}
+
+.profile-image {
+    max-width: 150px;
+}
